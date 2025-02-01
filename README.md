@@ -20,15 +20,10 @@ Welcome to **Furniva’s Admin Dashboard!** 🎉 This is the **ultimate control 
 ### **📈 Sales Analytics**  
 - Interactive **graphs and charts** to track sales performance.  
 
-### **🔔 Real-Time Notifications**  
-- Admin gets **instant alerts** for **new orders**.  
-- Side panel opens to display order details.  
-
 ## 🛠 Tech Stack  
 - **Frontend:** Next.js, React, Tailwind CSS  
 - **Backend:** Firebase (or your API)  
 - **State Management:** React Hooks  
-- **Real-Time Updates:** WebSockets / Firebase  
 
 ## 🚀 Getting Started  
 ### 1️⃣ **Clone the repository**  
